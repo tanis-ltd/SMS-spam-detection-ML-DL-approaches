@@ -5,3 +5,4 @@ Dataset Link: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 1. Implented a Naive Bayes Algorithm for Spam Detection.
 2. Fine-tuned DistillBERT Text classification model for SMS Spam detection using above dataset.
+3. Fine-tuned BERT-uncased model for Spam Detection.
